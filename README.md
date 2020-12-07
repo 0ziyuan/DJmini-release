@@ -1,4 +1,6 @@
 # DJmini-release
+![](https://gitee.com/wanli-0ziyuan/gitee-graph-bed/raw/master/img/20201207141048.png)
+
 #### 玩法说明
 
 ##### 音轨
@@ -12,6 +14,8 @@
 ##### 音符（Note）
 
 有样式之分，蓝色音符的音轨对应左手区键位，粉色音符的音轨对应右手区键位。击中时附有音效，随即消失。
+
+![](https://gitee.com/wanli-0ziyuan/gitee-graph-bed/raw/master/img/20201207142827.png)
 
 ##### 判定
 
@@ -35,5 +39,11 @@
 ##### 完整过程
 
 1. 5秒倒计时，倒计时结束，游戏开始；
+
+![](https://gitee.com/wanli-0ziyuan/gitee-graph-bed/raw/master/img/20201207142402.png)
+
 2. 音符下落，玩家按键击打。同时游戏区右上角实时显示命中率和游戏进度；
+
 3. 游戏进度到达100%，游戏结束。片刻后在动画播放区显示评级。
+
+![](https://gitee.com/wanli-0ziyuan/gitee-graph-bed/raw/master/img/20201207150329.png)
